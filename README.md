@@ -8,4 +8,4 @@
 
 分类效果：
 
-![image](https://github.com/lihuaqiang0101/Lenet5-cifar10/blob/master/imag/Figure_1.png
+![image](https://github.com/lihuaqiang0101/Lenet5-cifar10/blob/master/imag/Figure_1.png)
